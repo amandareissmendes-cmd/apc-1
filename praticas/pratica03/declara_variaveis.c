@@ -5,8 +5,8 @@ int main () {
     int numero_inteiro;
     
     tecla_pressionada = 'A';
-    numero inteiro = 23;
-printf ("Qual sua idade? \m")
+    numero_inteiro = 23;
+printf ("Qual sua idade? \n");
 
 
     return 0;
